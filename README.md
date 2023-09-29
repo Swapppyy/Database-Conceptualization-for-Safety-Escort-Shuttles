@@ -9,8 +9,6 @@ The database will also include a map for drivers to find the student in need of 
 My Notebook: 
 <a href="https://github.com/Swapppyy/Database-Conceptualization-for-Safety-Escort-Shuttles/blob/main/Database%20Conceptualization%20for%20Department%20of%20Public%20Safety.ipynb" target="_blank"><code>View My Jupyter Notebook</code></a>
 
-## Data Analysis Results
-
 ### Entities and Attributes:
 <p align="center">
   <img width="100%" src="https://github.com/Swapppyy/Database-Conceptualization-for-Safety-Escort-Shuttles/blob/main/Entities%20and%20Attributes.png" />
